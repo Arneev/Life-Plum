@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cabb344-79a9-4cbe-93f5-e803b77f8d14" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/97466af5dff98bc8c16e2a48cc70052d/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/97466af5dff98bc8c16e2a48cc70052d/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/97466af5dff98bc8c16e2a48cc70052d/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/97466af5dff98bc8c16e2a48cc70052d/app.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/97466af5dff98bc8c16e2a48cc70052d/debug_android_application.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/97466af5dff98bc8c16e2a48cc70052d/debug_android_application.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/97466af5dff98bc8c16e2a48cc70052d/flutter_assets.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/97466af5dff98bc8c16e2a48cc70052d/flutter_assets.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/97466af5dff98bc8c16e2a48cc70052d/kernel_snapshot.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/97466af5dff98bc8c16e2a48cc70052d/kernel_snapshot.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/97466af5dff98bc8c16e2a48cc70052d/kernel_snapshot.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/97466af5dff98bc8c16e2a48cc70052d/kernel_snapshot.stamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/graph/graph.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/graph/graph.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/helperFiles/database/database.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/helperFiles/database/database.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/helperFiles/database/dbTest.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/helperFiles/database/dbTest.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/journals/journalEntry.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/journals/journalEntry.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/journals/widgets/journalEntryWidgets.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/journals/widgets/journalEntryWidgets.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/navigator/navTitles.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/navigator/navTitles.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/navigator/navbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/navigator/navbar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/weather/weather.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/weather/weather.dart" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="R58M837BYKT" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Arneev\Desktop\GitHub\LifePlum\life_plum\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hnXv1bMtPg20jroa9KY2homQmd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../adjournal" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cabb344-79a9-4cbe-93f5-e803b77f8d14" name="Default Changelist" comment="" />
+      <created>1600648058530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600648058530</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
