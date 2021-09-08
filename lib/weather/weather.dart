@@ -172,7 +172,7 @@ Future<Position> getPos() async {
 
 Future<Weather> getWeather() async {
   WeatherFactory weatherFactory = new WeatherFactory(
-      "a3edde52d8699584079a275e2034ea1b",
+      "API_KEY",
       language: Language.ENGLISH);
 
   Position pos = await getPos();
